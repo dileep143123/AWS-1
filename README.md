@@ -1,2 +1,2 @@
-# AWSSolutions
-Training to become certified as an AWS Solutions Architect.
+# AWS
+Training to become AWS certified.
