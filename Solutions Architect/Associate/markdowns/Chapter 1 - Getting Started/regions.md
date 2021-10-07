@@ -1,0 +1,41 @@
+## **AWS Regions & Availability Zones**.
+
+<br>
+
+## **Regions.**
+
+* AWS has multiple regions all around the world.
+* Each region has a name, ours (London's) for example, is called "*eu-west-2*".
+* Each region is a cluster of data centers.
+* Most AWS services are region-scoped. i.e. using a service in one region & a different region are classed as 2 seperate services.
+
+### **How do you choose an AWS Region?\***
+
+The following factors can affect where we set up our AWS Region.
+
+* **Compliance** - with data governance & legal requirements. If data should never leave a region or country without explicit permissions.
+* **Proximity to customers** - it makes sense to deploy your applications & services in the region where most users will be. This will reduce latency.
+* **Available Services** - some regions do not have access to the full range of AWS services.
+* **Pricing** - can vary per region & is transparent through-out.
+
+Service availability list can be found at:  
+https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
+
+## **Availability Zones**.
+
+Availability zones (AZ) are the make-up of the different AWS regions.
+
+* Each region has many availabilty zones, usually 3, min. 2 & max. 6.  
+e.g. ap-southeast-2 (Sydney) in comprised of 3 availability zones;
+  * ap-southeast-2a
+  * ap-southeast-2b
+  * ap-southeast-2c
+
+* Each availability zone is one or more discrete data centers with power, networking & connectivity.
+* They're separate from each other, so that they're isolated from any problems in one availability zone.
+* They're connected with high bandwidth, ultra-low latency networking.
+
+## **Points of Presence (Edge Locations).**
+
+* Amazon has 216 Point of Presence (205 Edge Locations, 11 Regional Caches) in 84 cities across 42 countries.
+* This helps deliver content to end users with lower latency.

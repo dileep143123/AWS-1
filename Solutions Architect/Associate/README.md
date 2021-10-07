@@ -1,4 +1,4 @@
-## Solutions Architect Associate
+## **Solutions Architect Associate**.
 
 My first aim will be to become AWS certified as a solutions architect associate. I aim to use the following resources:
 
@@ -9,5 +9,9 @@ This will be my main learning resource as it will utilise the AWS Free-Tier for 
 
 * **Percipio**  
 Percipio has been provided by my company as an additional resource. Similar to aCloudGuru. I will try to utilise this as much as possible & to fill the gaps if I deem necessary.
+
+## **Additional Info**.
+
+**All headers / questions in each markdown that is STARRED (\*) are identified as a common exam question.**
 
 This course provides some sample code which is referred to during the course. Things like simple Lambda functions, API Gateways, S3 Policies etc. I have omitted these for the time-being but will add if deemed necessary.
