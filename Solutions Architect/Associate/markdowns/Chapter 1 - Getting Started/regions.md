@@ -1,4 +1,4 @@
-## **AWS Regions & Availability Zones**.
+# **AWS Regions & Availability Zones**.
 
 <br>
 
