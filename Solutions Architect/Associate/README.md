@@ -1,6 +1,6 @@
 ## Solutions Architect Associate
 
-My first ai will be to become AWS certified as a solutions architect associate. I aim to use the following resources:
+My first aim will be to become AWS certified as a solutions architect associate. I aim to use the following resources:
 
 * **Udemy Courses**  
 I will be using the following Udemy Course as material:<br>
