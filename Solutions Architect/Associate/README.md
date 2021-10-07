@@ -9,3 +9,5 @@ This will be my main learning resource as it will utilise the AWS Free-Tier for 
 
 * **Percipio**  
 Percipio has been provided by my company as an additional resource. Similar to aCloudGuru. I will try to utilise this as much as possible & to fill the gaps if I deem necessary.
+
+This course provides some sample code which is referred to during the course. Things like simple Lambda functions, API Gateways, S3 Policies etc. I have omitted these for the time-being but will add if deemed necessary.
